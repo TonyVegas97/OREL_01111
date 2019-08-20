@@ -12,5 +12,6 @@ public class TickerBeh extends TickerBehaviour {
     }
    public void stop(){
        System.out.println("tyqweqweiqwioiosdl;as;s;");
+       System.out.println("git_forever");
    }
 }
